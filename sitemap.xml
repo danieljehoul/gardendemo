@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap-image">
+    <sitemap>
+        <loc>https://github.com/danieljehoul/gardendemo/home</loc>
+        <lastmod>2026-02-14T23:01:18Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://github.com/danieljehoul/gardendemo/services</loc>
+        <lastmod>2026-02-14T23:01:18Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://github.com/danieljehoul/gardendemo/gallery</loc>
+        <lastmod>2026-02-14T23:01:18Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://github.com/danieljehoul/gardendemo/testimonials</loc>
+        <lastmod>2026-02-14T23:01:18Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://github.com/danieljehoul/gardendemo/contact</loc>
+        <lastmod>2026-02-14T23:01:18Z</lastmod>
+    </sitemap>
+</sitemapindex>
