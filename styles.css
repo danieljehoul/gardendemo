@@ -64,8 +64,9 @@ nav ul li a:hover {
     background: linear-gradient(rgba(45, 80, 22, 0.6), rgba(45, 80, 22, 0.7)), 
                 url('assets/images/gardening/lawn-garden.jpg');
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -385,6 +386,7 @@ footer p {
     #hero {
         height: 400px;
         background-attachment: scroll;
+        background-position: center center;
     }
 
     .hero-content h2 {
@@ -421,6 +423,7 @@ footer p {
 
     #hero {
         height: 350px;
+        background-position: center center;
     }
 
     .hero-content h2 {
