@@ -55,7 +55,7 @@ If you prefer to deploy manually without GitHub Actions:
    - Save
 
 2. **Using a different hosting provider**:
-   - Simply upload all files (`index.html`, `styles.css`, `robots.txt`, `sitemap.xml`) to your web hosting service
+   - Simply upload all files (`index.html`, `assets/css/styles.css`, `robots.txt`, `sitemap.xml`) to your web hosting service
    - No build process is required as this is a static HTML website
 
 ## 📁 Project Structure
@@ -63,7 +63,7 @@ If you prefer to deploy manually without GitHub Actions:
 ```
 gardendemo/
 ├── index.html      # Main website page
-├── styles.css      # Styling
+├── assets/css/styles.css  # Styling
 ├── robots.txt      # SEO configuration
 ├── sitemap.xml     # Sitemap for search engines
 ├── assets/         # Static assets (images, CSS, JS, fonts)
@@ -88,7 +88,7 @@ This is a static HTML website. To make changes:
    cd gardendemo
    
    # Make your changes
-   # Edit index.html, styles.css, etc.
+   # Edit index.html, assets/css/styles.css, etc.
    ```
 
 2. **Preview your changes**
@@ -124,3 +124,6 @@ After deployment, your website will be accessible at:
 ## 📄 License
 
 © 2026 Mali Vrtlari. All rights reserved.
+
+
+

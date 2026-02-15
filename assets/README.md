@@ -28,7 +28,7 @@ Store all image files here:
 ```
 
 ### CSS (`assets/css/`)
-Additional stylesheets beyond the main `styles.css`:
+Additional stylesheets beyond the main `assets/css/styles.css`:
 - Theme variations
 - Component-specific styles
 - Vendor CSS files
@@ -77,3 +77,4 @@ Custom web fonts:
 - Compress images to reduce file size
 - Consider using responsive images with multiple sizes
 - Add descriptive `alt` text for accessibility
+
