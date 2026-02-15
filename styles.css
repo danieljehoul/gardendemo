@@ -203,30 +203,6 @@ section h2::after {
     line-height: 1.6;
 }
 
-#services ul {
-    list-style: none;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
-    margin-top: 2rem;
-}
-
-#services ul li {
-    background: linear-gradient(135deg, #f0f8f0 0%, #e8f5e8 100%);
-    padding: 1.5rem;
-    border-radius: 8px;
-    border-left: 4px solid #4a7c2e;
-    font-size: 1.1rem;
-    transition: all 0.3s ease;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-#services ul li:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-    border-left-color: #2d5016;
-}
-
 /* Gallery Section */
 #gallery {
     background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
