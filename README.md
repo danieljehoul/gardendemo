@@ -66,6 +66,12 @@ gardendemo/
 ├── styles.css      # Styling
 ├── robots.txt      # SEO configuration
 ├── sitemap.xml     # Sitemap for search engines
+├── assets/         # Static assets (images, CSS, JS, fonts)
+│   ├── images/     # Image files
+│   ├── css/        # Additional CSS files
+│   ├── js/         # JavaScript files
+│   ├── fonts/      # Custom fonts
+│   └── README.md   # Assets documentation
 └── .github/
     └── workflows/
         └── deploy.yml  # Automatic deployment configuration
